@@ -26,7 +26,10 @@ Debes adjuntar las URL de los diferentes repositorios realizados para resolver l
 - Matiz:
 
 
-Rehice el ejercicio  de JavaScript para ver como trasponer el código y cómo se aplicaba a las directivas de Angular y TypeScript
+Rehice el ejercicio  de JavaScript para ver como trasponer el código y cómo se aplicaba a las directivas de Angular y TypeScript ya que me pareció más desafiante.
+
+
+![image](https://user-images.githubusercontent.com/36207623/158866476-ce88ee69-e440-4772-afef-82075c04e25c.png)
 
 
 
