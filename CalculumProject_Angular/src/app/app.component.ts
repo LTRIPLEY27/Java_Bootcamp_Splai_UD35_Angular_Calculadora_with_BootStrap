@@ -69,7 +69,7 @@ export class AppComponent {
         this.result = Math.pow(this.numero1, this.numero2);
       break;
       case "suma" :
-        this.result = parseFloat(this.numero1) + parseFloat(this.numero2);
+        this.result = (parseFloat(this.numero1) + parseFloat(this.numero2));
       break;
       case "negativo" :
         this.result = (-(this.numero1));
